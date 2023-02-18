@@ -1,0 +1,13 @@
+.Form {
+  width: 50%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Navbar {
+  width: 100%;
+}
